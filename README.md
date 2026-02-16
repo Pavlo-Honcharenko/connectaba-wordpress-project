@@ -18,7 +18,7 @@ https://connectaba.org/
 ## 🎥 Demo Video
 The demo video shows page interactions, animations, and mobile responsiveness.
 
-➡️ [Demo Video](./demo-video/ConnectABA.mp4)
+➡️ [Demo Video](./demo-video/)
 
 ---
 
