@@ -44,7 +44,7 @@ The full project took approximately **two weeks**.
 ## 🛠️ Technologies Used
 - WordPress  
 - Custom Theme Development  
-- ACF Pro  
+- Advanced Custom Fields (ACF)  
 - Contact Form 7  
 - HTML5  
 - CSS3 / SASS  
